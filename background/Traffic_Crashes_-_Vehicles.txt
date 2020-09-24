@@ -1,0 +1,148 @@
+Columns in this Dataset
+
+Column Name	       Description
+
+CRASH_UNIT_ID	       A unique identifier for each vehicle record.   
+
+CRASH_RECORD_ID	       This number can be used to link to the same crash in the Crashes and People datasets. This number also serves as a unique ID in the Crashes dataset.                      
+
+RD_NO	               Chicago Police Department report number. For privacy reasons, this column is blank for recent crashes.
+
+CRASH_DATE	       Date and time of crash as entered by the reporting officer
+
+UNIT_NO	               A unique ID for each unit within a specific crash report.
+
+UNIT_TYPE	       The type of unit
+
+NUM_PASSENGERS	       Number of passengers in the vehicle. The driver is not included. More information on passengers is in the People dataset.
+
+VEHICLE_ID	
+
+CMRC_VEH_I	
+
+MAKE	               The make (brand) of the vehicle, if relevant
+
+MODEL	               The model of the vehicle, if relevant
+
+LIC_PLATE_STATE	       The state issuing the license plate of the vehicle, if relevant
+
+VEHICLE_YEAR	       The model year of the vehicle, if relevant
+
+VEHICLE_DEFECT	
+
+VEHICLE_TYPE	       The type of vehicle, if relevant
+
+VEHICLE_USE	       The normal use of the vehicle, if relevant
+
+TRAVEL_DIRECTION       The direction in which the unit was traveling prior to the crash, as determined by the reporting officer
+
+MANEUVER	       The action the unit was taking prior to the crash, as determined by the reporting officer
+
+TOWED_I	               Indicator of whether the vehicle was towed
+
+FIRE_I	
+
+OCCUPANT_CNT	       The number of people in the unit, as determined by the reporting officer
+
+EXCEED_SPEED_LIMIT_I   Indicator of whether the unit was speeding, as determined by the reporting officer
+
+TOWED_BY	       Entity that towed the unit, if relevant
+
+TOWED_TO	       Location to which the unit was towed, if relevant
+
+AREA_00_I	
+
+AREA_01_I	
+
+AREA_02_I	
+
+AREA_03_I	
+
+AREA_04_I	
+
+AREA_05_I	
+
+AREA_06_I	
+
+AREA_07_I	
+
+AREA_08_I	
+
+AREA_09_I	
+
+AREA_10_I	
+
+AREA_11_I	
+
+AREA_12_I	
+
+AREA_99_I	
+
+FIRST_CONTACT_POINT	
+
+CMV_ID	
+
+USDOT_NO	
+
+CCMC_NO	
+
+ILCC_NO	
+
+COMMERCIAL_SRC	
+
+GVWR	
+
+CARRIER_NAME	
+
+CARRIER_STATE	
+
+CARRIER_CITY	
+
+HAZMAT_PLACARDS_I	
+
+HAZMAT_NAME	
+
+UN_NO	
+
+HAZMAT_PRESENT_I
+
+HAZMAT_REPORT_I	
+
+HAZMAT_REPORT_NO	
+
+MCS_REPORT_I	
+
+MCS_REPORT_NO	
+
+HAZMAT_VIO_CAUSE_CRASH_I	
+
+MCS_VIO_CAUSE_CRASH_I	
+
+IDOT_PERMIT_NO	
+
+WIDE_LOAD_I	
+
+TRAILER1_WIDTH	
+
+TRAILER2_WIDTH	
+
+TRAILER1_LENGTH	
+
+TRAILER2_LENGTH	
+
+TOTAL_VEHICLE_LENGTH	
+
+AXLE_CNT	
+
+VEHICLE_CONFIG	
+
+CARGO_BODY_TYPE	
+
+LOAD_TYPE	
+
+HAZMAT_OUT_OF_SERVICE_I	
+
+MCS_OUT_OF_SERVICE_I	
+
+HAZMAT_CLASS	
+
