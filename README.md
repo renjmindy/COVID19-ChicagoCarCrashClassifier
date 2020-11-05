@@ -2,12 +2,10 @@
 # COVID-19 and Safety On Wheels in Chicago: 
 ## Let crashes show you how to learn lessons
 
-![carechicago](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/traffic-highway_b.jpg)
-
-![crashchicago](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/chicago-crashes.png)
-
-<!-- 
-![zipcode](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/chicago-zip-code-map-printable.jpg)
+<!---
+![crashchicago](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/traffic-highway_b.jpg)
+![crashchicago](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/chicago-crashes.png)
+![crashchicago](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/chicago-zip-code-map-printable.jpg)
 -->
 
 # Data cleanness
@@ -24,31 +22,31 @@
 
       - before cleaning & imputing:
     
-  ![cleanness](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ0_1.png)
+  ![cleanness](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ0_1.png)
   
-  ![cleanness](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ0_2.png)  
+  ![cleanness](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ0_2.png)  
   
       - after cleaning & imputing:
       
-  ![cleanness](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ0_4.png)  
+  ![cleanness](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ0_4.png)  
   
-  ![cleanness](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ0_5.png)
+  ![cleanness](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ0_5.png)
       
-  ![cleanness](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ0_3.png)
+  ![cleanness](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ0_3.png)
   
-  ![cleanness](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ0_6.png)  
+  ![cleanness](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ0_6.png)  
   
-  ![cleanness](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ0_7.png)
+  ![cleanness](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ0_7.png)
       
-  ![cleanness](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ0_8.png)
+  ![cleanness](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ0_8.png)
   
-  ![cleanness](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ0_9.png)
+  ![cleanness](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ0_9.png)
       
-  ![cleanness](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ0_10.png)
+  ![cleanness](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ0_10.png)
   
-  ![cleanness](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ0_12.png)
+  ![cleanness](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ0_12.png)
 
-  ![cleanness](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ0_11.png)
+  ![cleanness](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ0_11.png)
 
 * Encoding
 
@@ -62,19 +60,19 @@
     
       <1> Fatal Degree Class-0
       
-   ![Top10class0](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_1.png)
+   ![Top10class0](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_1.png)
       
       <2> Fatal Degree Class-1
       
-   ![Top10class1](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_2.png)
+   ![Top10class1](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_2.png)
       
       <3> Fatal Degree Class-2
       
-   ![Top10class2](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_3.png)
+   ![Top10class2](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_3.png)
       
       <4> Fatal Degree Class-3
       
-   ![Top10class3](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_4.png)
+   ![Top10class3](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_4.png)
 
     * Recommendations:
       
@@ -115,8 +113,6 @@
                     'ENTERING_TRAFFIC_LANE_FROM_PARKING': 17, 'DIVERGING': 18}
                     
         - UNIT_TYPE {'DRIVER': 1, 'PARKED': 2, 'DRIVERLESS': 3}
-        
-    * Future Work:
                     
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
@@ -126,33 +122,33 @@
     
      <1> Fatal Degree Class-0
 
-   ![Top10class0](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_11.png)
+   ![Top10class0](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_11.png)
    
         - Lighting condition
         {'DAYLIGHT': 1, 'DARKNESS_LIGHTED_ROAD': 2, 'DARKNESS': 3, 'DUSK': 4, 'DAWN': 5}
         
-   ![Top10class0](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_111.png)    
+   ![Top10class0](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_111.png)    
    
         - Weather condition
         {'CLEAR': 1, 'RAIN': 2, 'CLOUDY_OVERCAST': 3, 'SNOW': 4, 'OTHER': 5, 'FREEZING_RAIN_DRIZZLE': 6, 
          'FOG_SMOKE_HAZE': 7}
         
-   ![Top10class0](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_112.png)  
+   ![Top10class0](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_112.png)  
    
         - Roadway surface condition
         {'DRY': 1, 'WET': 2, 'SNOW_OR_SLUSH': 3}
         
-   ![Top10class0](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_113.png)  
+   ![Top10class0](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_113.png)  
         
         - Intersection-related
         {'Y': 1, 'N': 0}
         
-   ![Top10class0](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_114.png) 
+   ![Top10class0](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_114.png) 
    
         - Travel direction
         {'S': 1, 'W': 2, 'N': 3, 'E': 4, 'SE': 5, 'SW': 6, 'NW': 7, 'NE': 8}
         
-   ![Top10class0](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_115.png)  
+   ![Top10class0](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_115.png)  
         
         - Maneuver
          {'STRAIGHT_AHEAD': 1, 'TURNING_LEFT': 2, 'SLOW_STOP_IN_TRAFFIC': 3, 
@@ -163,37 +159,37 @@
          'TURNING_ON_RED': 15, 'ENTER_FROM_DRIVE_ALLEY': 16, 
          'ENTERING_TRAFFIC_LANE_FROM_PARKING': 17, 'DIVERGING': 18}
         
-   ![Top10class0](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_116.png)  
+   ![Top10class0](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_116.png)  
 
      <2> Fatal Degree Class-1
       
-   ![Top10class1](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_12.png)
+   ![Top10class1](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_12.png)
    
         - Lighting condition
         {'DAYLIGHT': 1, 'DARKNESS_LIGHTED_ROAD': 2, 'DARKNESS': 3, 'DUSK': 4, 'DAWN': 5}
         
-   ![Top10class1](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_121.png)    
+   ![Top10class1](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_121.png)    
    
         - Weather condition
         {'CLEAR': 1, 'RAIN': 2, 'CLOUDY_OVERCAST': 3, 'SNOW': 4, 'OTHER': 5, 'FREEZING_RAIN_DRIZZLE': 6, 
          'FOG_SMOKE_HAZE': 7}
         
-   ![Top10class1](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_122.png)   
+   ![Top10class1](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_122.png)   
    
         - Roadway surface condition
         {'DRY': 1, 'WET': 2, 'SNOW_OR_SLUSH': 3}
         
-   ![Top10class1](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_123.png) 
+   ![Top10class1](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_123.png) 
    
         - Intersection-related
         {'Y': 1, 'N': 0}
         
-   ![Top10class1](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_124.png) 
+   ![Top10class1](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_124.png) 
    
         - Travel direction
         {'S': 1, 'W': 2, 'N': 3, 'E': 4, 'SE': 5, 'SW': 6, 'NW': 7, 'NE': 8}
         
-   ![Top10class1](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_125.png)      
+   ![Top10class1](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_125.png)      
         
         - Maneuver
          {'STRAIGHT_AHEAD': 1, 'TURNING_LEFT': 2, 'SLOW_STOP_IN_TRAFFIC': 3, 
@@ -204,37 +200,37 @@
          'TURNING_ON_RED': 15, 'ENTER_FROM_DRIVE_ALLEY': 16, 
          'ENTERING_TRAFFIC_LANE_FROM_PARKING': 17, 'DIVERGING': 18}
         
-   ![Top10class1](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_126.png)  
+   ![Top10class1](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_126.png)  
       
      <3> Fatal Degree CLass-2
       
-   ![Top10class2](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_13.png)
+   ![Top10class2](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_13.png)
    
         - Lighting condition
         {'DAYLIGHT': 1, 'DARKNESS_LIGHTED_ROAD': 2, 'DARKNESS': 3, 'DUSK': 4, 'DAWN': 5}
         
-   ![Top10class2](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_131.png)
+   ![Top10class2](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_131.png)
              
         - Weather condition
         {'CLEAR': 1, 'RAIN': 2, 'CLOUDY_OVERCAST': 3, 'SNOW': 4, 'OTHER': 5, 'FREEZING_RAIN_DRIZZLE': 6, 
          'FOG_SMOKE_HAZE': 7}
         
-   ![Top10class2](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_132.png)
+   ![Top10class2](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_132.png)
    
         - Roadway surface condition
         {'DRY': 1, 'WET': 2, 'SNOW_OR_SLUSH': 3}
    
-   ![Top10class2](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_133.png)
+   ![Top10class2](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_133.png)
         
         - Intersection-related
         {'Y': 1, 'N': 0}
    
-   ![Top10class2](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_134.png)
+   ![Top10class2](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_134.png)
         
         - Travel direction
         {'S': 1, 'W': 2, 'N': 3, 'E': 4, 'SE': 5, 'SW': 6, 'NW': 7, 'NE': 8}
         
-   ![Top10class2](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_135.png)
+   ![Top10class2](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_135.png)
    
         - Maneuver
          {'STRAIGHT_AHEAD': 1, 'TURNING_LEFT': 2, 'SLOW_STOP_IN_TRAFFIC': 3, 
@@ -245,37 +241,37 @@
          'TURNING_ON_RED': 15, 'ENTER_FROM_DRIVE_ALLEY': 16, 
          'ENTERING_TRAFFIC_LANE_FROM_PARKING': 17, 'DIVERGING': 18}
         
-   ![Top10class2](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_136.png)
+   ![Top10class2](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_136.png)
       
      <4> Fatal Degree Class-3
 
-   ![Top10class3](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_14.png)
+   ![Top10class3](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_14.png)
    
         - Lighting condition
         {'DAYLIGHT': 1, 'DARKNESS_LIGHTED_ROAD': 2, 'DARKNESS': 3, 'DUSK': 4, 'DAWN': 5}
         
-   ![Top10class3](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_141.png)
+   ![Top10class3](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_141.png)
         
         - Weather condition
         {'CLEAR': 1, 'RAIN': 2, 'CLOUDY_OVERCAST': 3, 'SNOW': 4, 'OTHER': 5, 'FREEZING_RAIN_DRIZZLE': 6, 
          'FOG_SMOKE_HAZE': 7}
         
-   ![Top10class3](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_142.png) 
+   ![Top10class3](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_142.png) 
    
         - Roadway surface condition
         {'DRY': 1, 'WET': 2, 'SNOW_OR_SLUSH': 3}
         
-   ![Top10class3](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_143.png) 
+   ![Top10class3](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_143.png) 
    
         - Intersection-related
         {'Y': 1, 'N': 0}
    
-   ![Top10class3](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_144.png) 
+   ![Top10class3](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_144.png) 
         
         - Travel direction
         {'S': 1, 'W': 2, 'N': 3, 'E': 4, 'SE': 5, 'SW': 6, 'NW': 7, 'NE': 8}
         
-   ![Top10class3](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_145.png)
+   ![Top10class3](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_145.png)
     
         - Maneuver
          {'STRAIGHT_AHEAD': 1, 'TURNING_LEFT': 2, 'SLOW_STOP_IN_TRAFFIC': 3, 
@@ -286,7 +282,7 @@
          'TURNING_ON_RED': 15, 'ENTER_FROM_DRIVE_ALLEY': 16, 
          'ENTERING_TRAFFIC_LANE_FROM_PARKING': 17, 'DIVERGING': 18}
         
-   ![Top10class3](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ1_146.png)
+   ![Top10class3](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ1_146.png)
 
     * Recommendations:
     
@@ -303,9 +299,6 @@
         - Maneuver : STRAIGHT_AHEAD (major) , TURNING_LEFT (second) , 
                      SLOW_STOP_IN_TRAFFIC (third) , TURNING_RIGHT (forth) , 
                      PARKED (fifth)
-        
-
-    * Future Work:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -342,9 +335,9 @@
    |  22        | 1.298  | 1.500  | 2.798 |
    |  23        | 1.226  | 0.912  | 2.138 |
    
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_11.png)   
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_11.png)   
    
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_4.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_4.png)
 
       - Cash Day of Week
 
@@ -358,9 +351,9 @@
    |        6	     | 1.257  | 1.115  | 2.372 |
    |        7	     | 1.260  | 1.296  | 2.556 |
    
- ![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_12.png)
+ ![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_12.png)
    
- ![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_5.png)
+ ![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_5.png)
  
        - Cash Month
    
@@ -372,9 +365,9 @@
    |    7	     | 1.195  | 1.175  | 2.370 |
    |    8	     | 1.196  | 1.477  | 2.673 |
 
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_13.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_13.png)
 
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_6.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_6.png)
 
        - Number of Units in Crash
        
@@ -387,74 +380,72 @@
    |    5	     | 2.500  | 3.000  | 5.500 |
    |    6	     | 1.500  | 1.667  | 3.167 |
 
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_10.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_10.png)
 
        - Posted Speed Limit
               
-![Info](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_1.png)
+![Info](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_1.png)
    
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_9.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_9.png)
    
        - Age
               
-![Info](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_2.png)
+![Info](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_2.png)
    
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_7.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_7.png)
    
        - Vehicle Year
               
-![Info](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_3.png)
+![Info](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_3.png)
    
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_8.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_8.png)
 
     
     * Recommendations:
     
-![Info](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_18.png)
+![Info](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_18.png)
 
-![Info](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_19.png)
+![Info](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_19.png)
     
        - Average Hour over Crash w.r.t. Damage Cost and Fatal Degree  
     
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_14.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_14.png)
 
        - Average Hour over Crash w.r.t. Damage Cost and Fatal Scenario (or Condition)
 
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_15.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_15.png)
 
        - Average Unit over Crash w.r.t. Damage Cost and Fatal Degree  
 
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_16.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_16.png)
 
        - Average Unit over Crash w.r.t. Damage Cost and Fatal Scenario (or Condition)
 
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_17.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_17.png)
 
        - Average Day over Crash w.r.t. Damage Cost and Fatal Degree
        
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_20.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_20.png)
 
        - Average Day over Crash w.r.t. Damage Cost and Fatal Scenario (or Condition)
        
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_21.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_21.png)
 
        - Average Month over Crash w.r.t. Damage Cost and Fatal Degree
        
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_22.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_22.png)
 
        - Average Month over Crash w.r.t. Damage Cost and Fatal Scenario (or Condition)
        
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_23.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_23.png)
 
        - Average Fatal Degree over Crash w.r.t. Vehicle Make and Fatal Scenario
        
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_24.png)
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_24.png)
 
        - Average Fatal Degree over Crash w.r.t. Vehicle Model and Fatal Scenario
        
-![FATALDEGREE](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_EDAQ2_25.png)
-    
-    * Future Work:
+![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_25.png)
 
 # Data interpretation 
 
@@ -478,9 +469,9 @@
    | macro avg	  | 0.789505	| 0.794396	 | 0.790997	    | 431.000000  |
    | weighted avg	  | 0.800242	| 0.795824	 | 0.797147	    | 431.000000  |
 
-![DT](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_DT_1.png)
+![DT](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_DT_1.png)
 
-![DT](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_DT_2.png)
+![DT](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_DT_2.png)
 
 * Regression with CART tree
 
@@ -496,9 +487,9 @@
    | :-----------------: | :---:  | :---:  | :---: | :---: | 
    |                     | 0.47   | 0.56   | 0.75  | 0.51  |
          
-![CT](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_CT_1.png)
+![CT](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_CT_1.png)
 
-![CT](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_CT_2.png)
+![CT](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_CT_2.png)
 
 * Random Forest
 
@@ -523,11 +514,11 @@
    | macro avg	  | 0.774943	 | 0.776996	   | 0.775781	| 431.000000  |
    | weighted avg	  | 0.780201	 | 0.779582	   | 0.779682	| 431.000000  |
   
-![RF](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_RF_1.png)
+![RF](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_RF_1.png)
 
     * Feature importance
     
-![RF](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_RF_2.png)
+![RF](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_RF_2.png)
 
   
   - Bagged Tree (criterion = gini) vs. Random Forest
@@ -558,7 +549,7 @@
    | macro avg	  | 0.819260	 | 0.820423	   | 0.819466	| 431.000000  |
    | weighted avg	  | 0.825017	 | 0.823666	   | 0.823975	| 431.000000  | 
    
-![RF](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_RF_4.png)
+![RF](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_RF_4.png)
       
       * Random Forest
       
@@ -580,11 +571,11 @@
    | macro avg	  | 0.901381	 | 0.898189	   | 0.898964	| 431.000000  |
    | weighted avg	  | 0.902186	 | 0.900232	   | 0.900287	| 431.000000  |
      
-![RF](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_RF_5.png)
+![RF](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_RF_5.png)
    
             - Feature importance (based on Random Forest)
     
-![RF](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_RF_3.png)
+![RF](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_RF_3.png)
 
 * Ada/Gradient Boost
 
@@ -608,7 +599,7 @@
    | macro avg	  | 0.655128	 | 0.647524	   | 0.650269	| 431.000000  |
    | weighted avg	  | 0.663287	 | 0.654292	   | 0.657650	| 431.000000  |
 
-![ADABT](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_ADABT_1.png)  
+![ADABT](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_ADABT_1.png)  
 
       - Gradient Boost Mean GBT Cross-Val Score (k=30): 70.41%
       
@@ -630,7 +621,7 @@
    | macro avg	  | 0.830150	 | 0.833163	   | 0.828017	| 431.000000  |
    | weighted avg	  | 0.838237	 | 0.828306	   | 0.829801	| 431.000000  |
 
-![GBT](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_GBT_1.png)
+![GBT](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_GBT_1.png)
 
 * XGBoost
 
@@ -668,8 +659,8 @@
    | macro avg	  | 0.949039	 | 0.951837	   | 0.949840	| 431.000000  |
    | weighted avg	  | 0.952442	 | 0.951276	   | 0.951254	| 431.000000  |
   
-![XGBT](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_XGBT_1.png)
+![XGBT](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_XGBT_1.png)
    
       - Feature importance (based on XGBoost)
     
-![XGBT](https://github.com/renjmindy/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/mod3_XGBT_2.png)
+![XGBT](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_XGBT_2.png)
