@@ -2,6 +2,8 @@
 # COVID-19 and Safety On Wheels in Chicago: 
 ## Let crashes show you how to learn lessons
 
+![crashchicago](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/increased-Fatal-Car-Accidents-COVID-19-1024x681.jpg)
+
 <!---
 ![crashchicago](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/traffic-highway_b.jpg)
 ![crashchicago](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/chicago-crashes.png)
