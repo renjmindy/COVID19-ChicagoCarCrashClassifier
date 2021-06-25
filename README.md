@@ -341,7 +341,7 @@
    
 ![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_4.png)
 
-      - Cash Day of Week
+      - Crash Day of Week
 
    | CRASH DAY OF WEEk | SEX F  | SEX M  | SUM   |
    | :------------:    | :---:  | :---:  | :---: |
@@ -357,7 +357,7 @@
    
  ![FATALDEGREE](https://github.com/renjmindy/COVID19-ChicagoCrashesClassifier/blob/master/images/mod3_EDAQ2_5.png)
  
-       - Cash Month
+       - Crash Month
    
    | CRASH MONTH | SEX F  | SEX M  | SUM   |
    | :------:    | :---:  | :---:  | :---: |
