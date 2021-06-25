@@ -308,7 +308,7 @@
  
     * Analysis:
     
-      - Cash Hour
+      - Crash Hour
     
    | CRASH HOUR | SEX F  | SEX M  | SUM   |
    | :-----:    | :---:  | :---:  | :---: |
